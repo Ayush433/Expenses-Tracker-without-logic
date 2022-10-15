@@ -1,0 +1,23 @@
+.Transition {
+  width: 300%;
+  font-size: 20px;
+}
+input {
+  margin-top: 15px;
+  width: 500px;
+  height: 35px;
+  display: flex;
+}
+#input {
+  border-bottom-style: solid;
+  border-bottom-width: medium;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#form {
+  width: 600px;
+}
+#pay {
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-top: 20px;
+}

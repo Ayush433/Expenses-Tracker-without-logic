@@ -1,0 +1,5 @@
+.balance {
+  width: auto;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(165, 19, 128, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(76, 150, 42, 0.75);
+}
